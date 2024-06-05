@@ -23,4 +23,4 @@ This project was developed with the following technologies:
 
 The landing page was a website designed to train and improve my knowledge of HTML and CSS.
 
-- [Access the finished project, online](https://malufmatos-devlinks.netlify.app)
+- [Access the finished project, online](https://malufmatos-devlinks.netlify.app) 
