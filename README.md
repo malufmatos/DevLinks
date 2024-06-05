@@ -1,26 +1,26 @@
-<h1 align="center"> SocialLinks </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  <img alt="Site no modo escuro" src="./assets/dark-site.png">
+  <img alt="Dark mode website" src="./assets/dark-site.png">
 </p>
 
 <p align="center">
-  <img alt="Site no modo claro" src="./assets/light-site.png">
+  <img alt="Light mode website" src="./assets/light-site.png">
 </p>
 
 <br>
 
-## 🚀 Tecnologias
+## Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## 💻 Projeto
+##  Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+The landing page was a website designed to train and improve my knowledge of HTML and CSS.
 
-- [Acesse o projeto finalizado, online](https://malufmatos-devlinks.netlify.app)
+- [Access the finished project, online](https://malufmatos-devlinks.netlify.app)
